@@ -1,0 +1,40 @@
+body{
+	direction: rtl;
+}
+.input-holder{
+	background-color: #ecf0f1;
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	padding: 20px; 
+	font-family: 'Amiri', serif;
+}
+
+.input_form{
+	
+}
+
+.logo{
+	width: 20%;
+	height: 20%;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	margin-bottom: 10px;
+}
+
+.student_code{
+	margin-top: 25px;
+	width: 75%;
+}
+
+td{
+	text-align: center;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+h3{
+	text-align: center;
+}
